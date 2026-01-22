@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch loop (integratedTerminal)",
+      "request": "launch",
+      "mainClass": "loop",
+      "console": "integratedTerminal"
+    }
+    ,
+    {
+      "type": "java",
+      "name": "Launch dsa (integratedTerminal)",
+      "request": "launch",
+      "mainClass": "dsa",
+      "console": "integratedTerminal"
+    }
+  ]
+}
