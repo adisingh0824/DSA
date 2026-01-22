@@ -1,4 +1,6 @@
-public class revstring {
+public class 
+    
+revstring {
     public static void main(String[] args) {
         String s="Hello world";
         String rev="";
